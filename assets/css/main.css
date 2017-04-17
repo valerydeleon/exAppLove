@@ -70,3 +70,7 @@ a:hover {
 .text-uppercase {
   text-transform: uppercase;
 }
+
+p{
+  padding-top: 25px;
+}
